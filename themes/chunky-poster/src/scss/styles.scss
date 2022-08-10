@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:400,400i,700,700i|Open+Sans:400,700|Roboto:400,600,700&display=swap');
+
+@import "_variables";
+@import "~bootstrap/scss/bootstrap";
+@import '~ekko-lightbox/dist/ekko-lightbox.css';
+@import "chunky-poster";
+
+content.div {
+  max-width: 700px;
+  margin: 40px auto 10px;
+  padding: 0 15px;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #333;  
+}
+
+
+navbar.div {
+  background-color: $red-light;
+}
+
+

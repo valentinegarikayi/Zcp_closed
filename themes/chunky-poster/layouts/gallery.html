@@ -1,0 +1,9 @@
+
+{{ define "main"}}
+    <main id="main">
+      <div>       
+		{{ partial "image-gallery" (dict "context" . "gallery_dir" "images") }}
+      </div>
+	
+    </main>
+{{ end }}
