@@ -1,6 +1,7 @@
-baseURL = 'http://dmnfarrell.github.io/'
+baseURL = 'https://valentinegarikayi.github.io/zcp_site/'
+canonifyurls=true
 theme = 'chunky-poster'
-title = 'ZCP'
+title = 'SAWA'
 copyright = 'CC BY 4.0 CN'
 paginate = 3
 languageCode = "en"
@@ -33,8 +34,8 @@ series = "series"
 author = "authors"
 
 [params]
-  author = "ZCP Authors"
-  description = "Zimbabwe Communist Party"
+  author = "Southern African Workers Association"
+  description = "Southern African Workers Association"
   homepageImage = "/images/homepage_image.jpg"
   dateFormat = "January 2, 2006"
   share = true
@@ -47,8 +48,8 @@ author = "authors"
   [params.social]
     rss = true
     email = "example@example.com"
-    facebook = "https://www.facebook.com/people/Zimbabwe-Communist-Party-ZCP/100068940978671/"
-    twitter = "https://twitter.com/home"
+    facebook = ""
+    twitter = ""
 
   [params.prismJS]
     enable = true
